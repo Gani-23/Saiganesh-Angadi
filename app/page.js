@@ -526,32 +526,16 @@ function ExperienceApp() {
   const experiences = [
     {
       company: 'Littardo',
-      role: 'Senior DevOps Engineer',
-      period: 'January 2025 - Present',
+      role: 'DevOps Engineer',
+      period: 'October 2023 - Present',
       location: 'Bhubaneshwar, Odisha, India',
       icon: '💼',
       color: 'transparent',
     },
     {
-      company: 'Krushigowrava',
-      role: 'Chief Executive Officer',
-      period: 'February 2024 - December 2024',
-      location: 'Tumakuru, Karnataka, India',
-      icon: '👔',
-      color: 'transparent',
-    },
-    {
-      company: 'RADiCAL',
-      role: 'AI Engineering Intern',
-      period: 'October 2023 - February 2024',
-      location: 'New York, United States',
-      icon: '🤖',
-      color: 'transparent',
-    },
-    {
       company: 'Synchronoss Technologies',
       role: 'Software Development Engineer',
-      period: 'January 2023 - September 2023',
+      period: 'January 2023 - October 2023',
       location: 'Bengaluru, Karnataka, India',
       icon: '💻',
       color: 'transparent',
@@ -948,13 +932,7 @@ function ResumeApp() {
             <h3 className="text-xl font-bold mb-3 text-[#60CDFF]">💼 Experience Highlights</h3>
             <div className="space-y-3 text-white/80">
               <div>
-                <strong className="text-white">DevOps Engineer</strong> at Littardo (2025 - Present)
-              </div>
-              <div>
-                <strong className="text-white">CEO</strong> at Krushigowrava (2024)
-              </div>
-              <div>
-                <strong className="text-white">AI Engineering Intern</strong> at RADiCAL (2023-2024)
+                <strong className="text-white">DevOps Engineer</strong> at Littardo (2023 - Present)
               </div>
               <div>
                 <strong className="text-white">Software Engineer</strong> at Synchronoss Technologies (2023)
